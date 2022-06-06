@@ -1,4 +1,4 @@
-## Projeto criado a fim de estudo do reactHooks, ciclo de vida e consumo de api rest  curso("dio.me")
+## Projeto criado a fim de estudo do reactHooks, ciclo de vida e consumo de api rest  curso(http://dio.me)
 
 ### `npm start`
 
@@ -22,11 +22,11 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-## Examnple page "
+## "Example page"
 
 Veja essa aplicação Rodando
 [Acesse](https://naruto.surge.sh/)
 
-Veja tbm a Api Cria utilizando Next 
-[Acesse](https://api-generate-message-random-naruto.vercel.app/api)
-[repositorioApi](https://github.com/speedsul/api-generate-message-random-naruto)
+Veja confira essa api criada para geração de mensagem utilizando nextjs
+[Veja essa aplicação rodando](https://api-generate-message-random-naruto.vercel.app/api)
+[repositorio Api](https://github.com/speedsul/api-generate-message-random-naruto)
